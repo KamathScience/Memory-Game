@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544834819771",
+    "project_id": "memory-game-493a5",
+    "storage_bucket": "memory-game-493a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544834819771:android:b9aead1091d743d6303b9e",
+        "android_client_info": {
+          "package_name": "com.dkamath.memorygame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIyunqAuz_AUB4NxQ39v1JXbSuQTyO9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
